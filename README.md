@@ -8,7 +8,7 @@ Get the area under the curve of the graph of a constant stream of recived values
 - time
 
 # Captures
-![1](Captures/Captura1.PNG)
-![2](Captures/Captura2.PNG)
-![3](Captures/Captura3.PNG)
-![4](Captures/Captura4.PNG)
+![1](https://raw.githubusercontent.com/MartinCastillo/Sensor-Integral/master/Captures/Captura1.PNG)
+![2](https://raw.githubusercontent.com/MartinCastillo/Sensor-Integral/master/Captures/Captura2.PNG)
+![3](https://raw.githubusercontent.com/MartinCastillo/Sensor-Integral/master/Captures/Captura3.PNG)
+![4](https://raw.githubusercontent.com/MartinCastillo/Sensor-Integral/master/Captures/Captura4.PNG)
